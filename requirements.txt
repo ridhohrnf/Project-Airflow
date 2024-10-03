@@ -1,0 +1,8 @@
+openpyxl
+psycopg2-binary
+pandas
+pyarrow
+sqlalchemy
+xlrd
+pathlib
+jsonschema
